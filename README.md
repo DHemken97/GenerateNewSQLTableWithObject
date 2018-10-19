@@ -1,2 +1,1 @@
-"# GenerateNewSQLTableWithObject"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/DHemken97/GenerateNewSQLTableWithObject.git git push -u origin master
-"# GenerateNewSQLTableWithObject" 
+This Is an example of how to generate a query to create a SQL table based on an object Definition.
