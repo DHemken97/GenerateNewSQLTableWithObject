@@ -1,0 +1,11 @@
+C:\Users\dhemken\source\repos\SqlDtoTableGeneratorTest\SqlDtoTableGeneratorTest\bin\Debug\netcoreapp2.1\SqlDtoTableGeneratorTest.deps.json
+C:\Users\dhemken\source\repos\SqlDtoTableGeneratorTest\SqlDtoTableGeneratorTest\bin\Debug\netcoreapp2.1\SqlDtoTableGeneratorTest.runtimeconfig.json
+C:\Users\dhemken\source\repos\SqlDtoTableGeneratorTest\SqlDtoTableGeneratorTest\bin\Debug\netcoreapp2.1\SqlDtoTableGeneratorTest.runtimeconfig.dev.json
+C:\Users\dhemken\source\repos\SqlDtoTableGeneratorTest\SqlDtoTableGeneratorTest\bin\Debug\netcoreapp2.1\SqlDtoTableGeneratorTest.dll
+C:\Users\dhemken\source\repos\SqlDtoTableGeneratorTest\SqlDtoTableGeneratorTest\bin\Debug\netcoreapp2.1\SqlDtoTableGeneratorTest.pdb
+C:\Users\dhemken\source\repos\SqlDtoTableGeneratorTest\SqlDtoTableGeneratorTest\obj\Debug\netcoreapp2.1\SqlDtoTableGeneratorTest.csprojAssemblyReference.cache
+C:\Users\dhemken\source\repos\SqlDtoTableGeneratorTest\SqlDtoTableGeneratorTest\obj\Debug\netcoreapp2.1\SqlDtoTableGeneratorTest.csproj.CoreCompileInputs.cache
+C:\Users\dhemken\source\repos\SqlDtoTableGeneratorTest\SqlDtoTableGeneratorTest\obj\Debug\netcoreapp2.1\SqlDtoTableGeneratorTest.AssemblyInfoInputs.cache
+C:\Users\dhemken\source\repos\SqlDtoTableGeneratorTest\SqlDtoTableGeneratorTest\obj\Debug\netcoreapp2.1\SqlDtoTableGeneratorTest.AssemblyInfo.cs
+C:\Users\dhemken\source\repos\SqlDtoTableGeneratorTest\SqlDtoTableGeneratorTest\obj\Debug\netcoreapp2.1\SqlDtoTableGeneratorTest.dll
+C:\Users\dhemken\source\repos\SqlDtoTableGeneratorTest\SqlDtoTableGeneratorTest\obj\Debug\netcoreapp2.1\SqlDtoTableGeneratorTest.pdb
